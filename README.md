@@ -1,2 +1,3 @@
 # test_git
-un test de git
+un test d$e$ git
+une modif en local
